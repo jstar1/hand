@@ -1,1 +1,1 @@
-# the_hand
+the hand project
